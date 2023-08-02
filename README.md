@@ -27,5 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaychirme&theme=dark" alt="akshaychirme" /></p>
 
-![image](https://github.com/akshaychirme/akshaychirme/assets/114064880/6f35eada-8ba2-4ebd-8392-9a520d9f30d0)
 
